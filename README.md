@@ -172,7 +172,7 @@ When your trial expires or you are ready to upgrade:
 * **❌ EXIT APP** (Sidebar)
 * **🔴 SHUTDOWN SYSTEM** (Login Screen)
 
-**Why?** This ensures the system sends a secure "Disconnect" signal to the server before closing, preventing "ghost" sessions.
+**Why?** This ensures the system sends a secure "Disconnect" signal to the Kill Task server before closing, preventing "ghost" sessions.
 
 # ☕ Support
 
